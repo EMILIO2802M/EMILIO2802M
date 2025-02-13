@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola Y bienvenidos a mi perfil de GitHub!<br> <br>Soy un programador joven de 19 años de México, un apasionado de la programación y la tecnología con muchas ganas de aprender y crear soluciones innovadoras. Actualmente estudio Ingeniería en Sistemas en el TESJI y me especializo en el desarrollo de software y automatización.<br><br>¿Qué me motiva?<br>Me encanta enfrentar nuevos retos, resolver problemas con código y mejorar mis habilidades día a día. Creo en el poder de la tecnología para transformar ideas en soluciones impactantes.
+¡Hola y bienvenidos a mi perfil de GitHub!<br> <br>Soy un programador joven de 19 años de México, un apasionado de la programación y la tecnología con muchas ganas de aprender y crear soluciones innovadoras. Actualmente estudio Ingeniería en Sistemas en el TESJI y me especializo en el desarrollo de software y automatización.<br><br>¿Qué me motiva?<br>Me encanta enfrentar nuevos retos, resolver problemas con código y mejorar mis habilidades día a día. Creo en el poder de la tecnología para transformar ideas en soluciones impactantes.
 
 
 ## 🌐 Socials:
