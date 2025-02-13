@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
     <a href="https://www.facebook.com/share/1KVYxgV7Wg/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt="Facebook">
   </a>
 </p>
 
