@@ -17,6 +17,9 @@
 
 ## 🌐 Socials:
 <p align="center">
+  <a href="https://www.facebook.com/share/1KVYxgV7Wg/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
   <a href="https://www.tiktok.com/@oemm10_?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
@@ -26,9 +29,6 @@
   <a href="mailto:emilio2802m@gmail.com">
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
-    <a href="https://www.facebook.com/share/1KVYxgV7Wg/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
 </p>
 
 # 💻 Tech Stack:
