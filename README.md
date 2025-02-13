@@ -1,6 +1,19 @@
 # 💫 About Me:
 ¡Hola y bienvenidos a mi perfil de GitHub!<br> <br>Soy un programador joven de 19 años de México, un apasionado de la programación y la tecnología con muchas ganas de aprender y crear soluciones innovadoras. Actualmente estudio Ingeniería en Sistemas en el TESJI y me especializo en el desarrollo de software y automatización.<br><br>¿Qué me motiva?<br>Me encanta enfrentar nuevos retos, resolver problemas con código y mejorar mis habilidades día a día. Creo en el poder de la tecnología para transformar ideas en soluciones impactantes.
 
+## 🚀 Sobre mí
+
+- 🌱 Actualmente estoy aprendiendo **[Tecnologías Web]** y **[Desarrollo de Aplicaciones Móviles]**
+- 💼 Buscando oportunidades para colaborar en **proyectos de desarrollo de software**
+- 🎯 Enfocado en crecer tanto a nivel profesional como personal
+
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes de Programación**: JavaScript, Python, Java, C
+- **Frontend**: HTML, CSS, React
+- **Backend**: Laravel, Spring Boot
+- **Bases de Datos**: MySQL
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oemm_10) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oemm_10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oemm_10) 
